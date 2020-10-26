@@ -1,7 +1,6 @@
 # google_clone
-Develop a website which clone partial function of google.
+Develop a website which clone partial function of google using react, react-redux
 
-View deployment: [https://lit26.github.io/google_clone/](https://lit26.github.io/google_clone/)
+View deployment: [https://clone-f515a.web.app/](https://clone-f515a.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
