@@ -11,7 +11,7 @@ import {actionTypes} from "../reducer";
 function Search({hideButtons = false}) {
     const [input, setInput] = useState('');
     const history = useHistory();
-    const [{}, dispatch] = useStateValue();
+    const [, dispatch] = useStateValue();
 
     const search = (e) =>{
         e.preventDefault();

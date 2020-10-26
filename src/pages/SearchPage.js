@@ -2,7 +2,7 @@ import React from 'react'
 import { useStateValue } from "../StateProvider";
 
 function SearchPage() {
-    const [{ term }, dispatch] = useStateValue();
+    const [{ term }, ] = useStateValue();
 
     return (
         <div className="searchPage">
